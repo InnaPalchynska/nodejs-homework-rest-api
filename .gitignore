@@ -1,3 +1,5 @@
 node_modules
+temp
+public
+avatars
 .env
-.zip
